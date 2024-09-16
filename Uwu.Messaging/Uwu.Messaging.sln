@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.API", "src\Uwu.Messanging\Uwu.Messaging.API.csproj", "{91B52F2A-59F3-474A-8FC8-2BB108D5AD99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.API", "src\Uwu.Messaging\Uwu.Messaging.API.csproj", "{91B52F2A-59F3-474A-8FC8-2BB108D5AD99}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.Core", "src\Uwu.Messanging.Core\Uwu.Messaging.Core.csproj", "{AA0FB26B-A8D8-4027-BF63-03F64530BA66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.Core", "src\Uwu.Messaging.Core\Uwu.Messaging.Core.csproj", "{AA0FB26B-A8D8-4027-BF63-03F64530BA66}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.EntityFramework", "src\Uwu.Messanging.EntityFramework\Uwu.Messaging.EntityFramework.csproj", "{F1DD50B2-BD9B-489C-9F29-EBBF7463FC8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.EntityFramework", "src\Uwu.Messaging.EntityFramework\Uwu.Messaging.EntityFramework.csproj", "{F1DD50B2-BD9B-489C-9F29-EBBF7463FC8B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.IntegrationTests", "src\Uwu.Messanging.IntegrationTests\Uwu.Messaging.IntegrationTests.csproj", "{C1422319-82DF-4A47-A7D4-26769058F776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uwu.Messaging.IntegrationTests", "src\Uwu.Messaging.IntegrationTests\Uwu.Messaging.IntegrationTests.csproj", "{C1422319-82DF-4A47-A7D4-26769058F776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
