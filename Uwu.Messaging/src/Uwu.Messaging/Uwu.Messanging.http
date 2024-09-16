@@ -1,6 +1,0 @@
-@Uwu.Messanging_HostAddress = http://localhost:5049
-
-GET {{Uwu.Messanging_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
